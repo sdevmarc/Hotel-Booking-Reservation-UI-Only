@@ -184,7 +184,7 @@ Partial Class Main
         Me.pbBg.Location = New System.Drawing.Point(246, 13)
         Me.pbBg.Name = "pbBg"
         Me.pbBg.Size = New System.Drawing.Size(1445, 636)
-        Me.pbBg.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage
+        Me.pbBg.SizeMode = System.Windows.Forms.PictureBoxSizeMode.CenterImage
         Me.pbBg.TabIndex = 9
         Me.pbBg.TabStop = False
         '
